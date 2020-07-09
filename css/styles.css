@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: large;
+    text-align: center;
+    font-family: sans-serif;
+}
+.intro{
+    font-style: italic;
+    font-size: unset;
+}
