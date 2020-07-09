@@ -1,13 +1,18 @@
 body{
     text-align: center;
     background-color: blanchedalmond;
+    font-size: larger;
 }
 h1{
-    font-size: large;
     text-align: center;
     font-family: sans-serif;
 }
 .intro{
     font-style: italic;
     font-size: unset;
+}
+.sidebar{
+    width: 50%;
+    float: right;
+    background-color: cadetblue;
 }
