@@ -5,14 +5,28 @@ body{
 }
 h1{
     text-align: center;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .intro{
     font-style: italic;
     font-size: unset;
 }
 .sidebar{
-    width: 50%;
+    text-align: center;
+    float: left;
+}
+}
+h2{
+    text-align: center;
+}
+.column1{
+    float: inline-start;
+}
+#about{
+    width: 40%;
+    float: left;
+    background-color: yellow;
+}
+img{
     float: right;
-    background-color: cadetblue;
 }
